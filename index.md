@@ -9,7 +9,7 @@
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-thank you for coming to my T̶E̶D̶ ̶T̶a̶l̶k̶ GitHub Pages
+welcome, i guess
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
