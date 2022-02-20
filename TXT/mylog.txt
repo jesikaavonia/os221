@@ -2,7 +2,17 @@
 # ZCZC  WEEK# MINUTES LogCode Description
 # LogCode:  https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC  W00 70  L03 GitHub related
+ZCZC  W00 070 L03 GitHub related
 ZCZC  W00 100 L06 GSGS related
-ZCZC  W00 20  L06 Books
-ZCZC  W00 60  L04 GitHub Pages related
+ZCZC  W00 020 L06 Books
+ZCZC  W00 060 L04 GitHub Pages related
+ZCZC  W00 100 L02 ZOOM meetings related (Tuesday's class)
+ZCZC  W00 075 L02 ZOOM meetings related (thursday's class)
+
+ZCZC  W01 110 L02 ZOOM meetings related (tuesday class)
+ZCZC  W01 075 L02 ZOOM meetings related (thursday class)
+ZCZC  W01 070 L06 GSGS related
+ZCZC  W01 320 L11 Assignment #01 (After re-installing for  3 times, Completed)
+ZCZC  W01 060 L12 Assignment #02 (On Going)
+ZCZC  W01 005 L13 Assignment #03 (On Going)
+ZCZC  W01 005 L14 Assignment #04 (Completed)
