@@ -10,7 +10,7 @@ By {{ site.author }}
 
 # LINKS
 
->>What I've learn from 2 weeks in OS:
+What I've learn from 2 weeks in OS:
 <br>
 ##1. Re-Installing stuff and start it all again from step 1 faster than debugging your thing.
 <br>
