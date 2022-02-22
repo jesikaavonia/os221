@@ -12,14 +12,17 @@ By {{ site.author }}
 
 What I've learn from 2 weeks in OS:
 <br>
-##1. Re-Installing stuff and start it all again from step 1 faster than debugging your thing.
+
+## 1. Re-Installing stuff and start it all again from step 1 faster than debugging your thing.
 <br>
 Disclaimer applied to small scale of project or newbie level, like me, ~~and you~~.
 I learn from my mistakes and enjoy the pain, i mean the progress.
 
-##2. Do not sistem kebut semalam.
+## 2. Do not sistem kebut semalam.
+Eventho this one kinda fun, jangan deh.
 
-##3. Not really sure in the end of the semester I will end this class or this class wil end me.
+## 3. Not really sure in the end of the semester I will end this class or this class wil end me.
+sheeshhh, stream nct dream
 
 <br>
 <hr>
