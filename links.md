@@ -14,7 +14,6 @@ What I've learn from 2 weeks in OS:
 <br>
 
 ## 1. Re-Installing stuff and start it all again from step 1 faster than debugging your thing.
-<br>
 Disclaimer applied to small scale of project or newbie level, like me, ~~and you~~.
 I learn from my mistakes and enjoy the pain, i mean the progress.
 
