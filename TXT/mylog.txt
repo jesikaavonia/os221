@@ -16,3 +16,7 @@ ZCZC  W01 320 L11 Assignment #01 (After re-installing for  3 times, Completed)
 ZCZC  W01 060 L12 Assignment #02 (On Going)
 ZCZC  W01 005 L13 Assignment #03 (On Going)
 ZCZC  W01 005 L14 Assignment #04 (Completed)
+
+ZCZC  W02 110 L02 ZOOM meetings related (Tuesday's class)
+ZCZC  W02 075 L02 ZOOM meetings related (Thursday's class)
+ZCZC  W02 100 L11 Assignment #01
