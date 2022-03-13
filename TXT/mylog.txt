@@ -25,3 +25,6 @@ ZCZC  W03 110 L02 ZOOM meetings related (Tuesday's class)
 ZCZC  W03 060 L11 Assignment #01 (Completed)
 ZCZC  W03 060 L12 Assignment #02 (Completed)
 ZCZC  W03 120 L13 Assignment #03 (Completed)
+
+ZCZC  W04 060 L11 Assignment #01 (Completed)
+ZCZC  W04 030 L12 Assignment #02 (On Going)
