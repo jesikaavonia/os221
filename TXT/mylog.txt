@@ -33,7 +33,8 @@ ZCZC  W04 100 L12 Assignment #02 (Completed)
 ZCZC  W05 060 L11 Assignment #01 (Completed)
 ZCZC  W05 100 L12 Assignment #02 (Completed)
 ZCZC  W05 060 L13 Assignment #03 (Completed)
-ZCZC  W05 050 L14 Assignment #04 (Hardly confused)
+ZCZC  W05 120 L14 Assignment #04 (Completed)
+ZCZC  W05 015 L15 Assignment #05 (Completed)
 
 
 
