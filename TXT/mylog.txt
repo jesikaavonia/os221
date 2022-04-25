@@ -43,4 +43,4 @@ ZCZC  W06 040 L13 Assignment #03 (Completed)
 ZCZC  W07 060 L11 Assignment #01 (Completed)
 ZCZC  W07 060 L12 Assignment #02 (Completed)
 ZCZC  W07 120 L13 Assignment #03 (Completed)
-
+ZCZC  W07 100 L06 GSGS related (updating my kernell, was hard fr)
