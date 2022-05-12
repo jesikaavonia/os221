@@ -47,5 +47,9 @@ ZCZC  W07 100 L06 GSGS related (updating my kernell, was hard fr)
 
 ZCZC  W08 060 L11 Assignment #01 (Completed)
 ZCZC  W08 060 L12 Assignment #02 (On it)
-ZCZC  W08 020 L13 Assignment #03 (Trying to figured things)
+ZCZC  W08 300 L13 Assignment #03 (Completed)
 ZCZC  W08 100 L06 GSGS related (Can't sleep due to my anxiety disorder)
+
+ZCZC  W09 010 L11 Assignment #01 
+ZCZC  W09 010 L12 Assignment #02
+ZCZC  W09 020 L13 Assignment #03 (Trying to figured things)
