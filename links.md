@@ -27,6 +27,7 @@ sheeshhh, stream nct dream
 
 ### WEEK 09
 Been so hard for me but just go GSGS bro everything is out there on google and do ask friends. Even if you think you're not close enough to ask stuff as friends, just ask them as classmates, you'll be friend through this project I promise.
+I really went here and there to found a way to solve my problem, I once read stuff from CS UNI in China, and it works, somehow.
 
 <br>
 <hr>
